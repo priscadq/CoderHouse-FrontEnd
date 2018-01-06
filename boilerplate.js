@@ -9,13 +9,13 @@
 
   📅 Días y Horarios: Sábados de 09:30hs a 16:30hs (5 clases)
 
-  🚻 Baños:
-
   ☕️ Break: 15 minutos a las 12:30hs y hay café, agua caliente, galletitas.
 
   📶 Wi-Fi: Nombre -> "" - Contraseña: ""
 
-  🏢 Lugar: Urban Station - El Salvador 4577
+  🏢 Lugar: Urban Station - El Salvador 4577 - Sala Open Space
+
+  ☎️ Info: pablol@enjoyurbanstation.com - 11 4897 2162
 
   📚 Agenda / Temario:
       * Sábado 6 de Enero - ES6 ó ECMAScript 2015
@@ -36,7 +36,7 @@
       * Completar encuestas a las 16:15hs (15min antes)
       * Requisitos para el certificado: 80% de asistencia
       * Plataforma https://plataforma.coderhouse.com
-      * Sala de Chat (Slack), canal #curso2610 https://developershouse.slack.com
+      * Sala de Chat (Slack), canal #curso2735 https://developershouse.slack.com
       * Devolución de TPs por GitHub y Plataforma
       * Organizar bien la sala, proyector y sillas
       * Podemos pedir zapatillas / snacks en recepción si hace falta
